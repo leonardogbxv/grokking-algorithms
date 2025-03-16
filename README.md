@@ -1,8 +1,10 @@
 # Algorithms
 
-Algorithms study with the book Grokking Algorithms.
+The purpose of this repository is to document and solve the exercises from Grokking Algorithms clearly, as well as practice algorithm implementation.
 
-## Exercises Answers (pt-br)
+## Solved Exercises (pt-br)
+
+Below are the exercises I've solved so far, in Portuguese (pt-br):
 
 1.1 - log<sub>2</sub>128 = 7
 1.2 - log<sub>2</sub>256 = 8
@@ -30,3 +32,9 @@ Algorithms study with the book Grokking Algorithms.
 3.2 - A pilha vai crescendo "infinitamente" até explodir a memória.
 
 4.1 - [recursive_sum.js](./src/recursive_sum.js)
+4.2 - [recursive_sum.js](./src/recursive_sum.js)
+4.3 - Caso base: array com um item.
+Caso recursivo: o array é dividido pela metade até o valor ser encontrado.
+
+## How to Contribute
+If you find any errors or have suggestions for improvements, feel free to fork this repository and open a pull request.
