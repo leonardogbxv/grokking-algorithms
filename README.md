@@ -1,6 +1,6 @@
 # Algorithms
 
-The purpose of this repository is to document and solve the exercises from the book Grokking Algorithms (pt-br: "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos"), while also practicing algorithm implementation.
+The purpose of this repository is to document and solve the exercises from the book Grokking Algorithms ("Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos"), while also practicing algorithm implementation.
 
 ## Solved Exercises
 
