@@ -37,7 +37,8 @@ Below are the exercises I've solved so far, in Portuguese (pt-br):
 ### Capítulo 4: Quicksort
 4.1 - [recursive_sum.js](./src/recursive_sum.js)<br>
 4.2 - [recursive_sum.js](./src/recursive_sum.js)<br>
-4.3 - Caso base: array com um item.<br>
+4.3 - [highest_number.js](./src/highest_number.js)<br>
+4.4 - Caso base: array com um item.<br>
 Caso recursivo: o array é dividido pela metade até o valor ser encontrado.<br>
 
 ## How to Contribute
