@@ -40,6 +40,10 @@ Below are the exercises I've solved so far, in Portuguese (pt-br):
 4.3 - [highest_number.js](./src/highest_number.js)<br>
 4.4 - Caso base: array com um item.<br>
 Caso recursivo: o array é dividido pela metade até o valor ser encontrado.<br>
+4.5 - O(n)
+4.6 - O(n)
+4.7 - O(1)
+4.8 - O(n²)
 
 ## How to Contribute
 If you find any errors or have suggestions for improvements, feel free to fork this repository and open a pull request.
